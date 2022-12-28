@@ -1,0 +1,15 @@
+{
+    "name": "v3ryf/public",
+    "autoload": {
+        "psr-4": {
+            "V3ryf\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "v3ry",
+            "email": "v3ryfr@gmail.com"
+        }
+    ],
+    "require": {}
+}
